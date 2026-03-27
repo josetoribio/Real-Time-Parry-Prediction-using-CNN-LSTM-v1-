@@ -5,6 +5,8 @@
 A **parry** in *Street Fighter III: 3rd Strike* is a defensive mechanic that allows a player to negate an opponent’s attack with zero blockstun by tapping toward the opponent at the correct moment.
 
 A **projectile** is any attack that creates a moving hitbox separate from the character, such as Ryu’s Hadoken.
+<img width="1600" height="700" alt="frame_00001" src="https://github.com/user-attachments/assets/220586f1-93c2-469b-92b7-d379d09e283d" />
+
 
 This project explores using deep learning to predict the **correct timing window to parry a projectile** based on sequences of frames.
 
